@@ -33,7 +33,6 @@ const addStory = asyncErrorWrapper(async (req, res, next) => {
         deleteImageFile(req)
 
         return next(error)
-
     }
 
 })
