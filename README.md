@@ -1,67 +1,7 @@
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
-Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
+Fullstack Blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
-
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
-
-
-## Configuration and Setup
-
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
-
-- Open the project in your prefered code editor.
-- Go to terminal -> New terminal (If you are using VS code)
-- Split your terminal into two (run the Frontend on one terminal and the Backend on the other terminal)
-
-In the first terminal
-
-```
-$ cd Frontend
-$ npm install (to install frontend-side dependencies)
-$ npm run  start (to start the frontend)
-```
-
-In the second terminal
-
-- cd Backend and Set environment variables in config.env under ./config
-- Create your mongoDB connection url, which you'll use as your MONGO_URI
-- Supply the following credentials
-
-```
-#  ---  Config.env  ---
-
-NODE_ENV = development
-PORT =5000
-URI =http://localhost:3000
-MONGO_URI =
-JWT_SECRET_KEY =
-JWT_EXPIRE = 60m
-RESET_PASSWORD_EXPIRE = 3600000 
-
-# Nodemailer
-
-SMTP_HOST =smtp.gmail.com
-SMTP_PORT =587
-EMAIL_USERNAME = example@gmail.com
-EMAIL_PASS = your_password
-```
-
-
-```
-# --- Terminal ---
-
-$ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
-```
 
 ##  Key Features
 
@@ -137,12 +77,6 @@ This project was created using the following technologies.
 --- - 
 ![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 
