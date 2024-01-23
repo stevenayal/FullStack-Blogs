@@ -53,7 +53,13 @@ This project was created using the following technologies.
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
  
  ##  Screenshots 
- 
+ ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/a4893695-25bb-4747-a529-e9d58457c7ee)
+ ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/4282f48c-4c3d-4c36-b8ea-f3432befcb87)
+![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/2e983076-5357-4022-ba2a-97402fa94f56)
+![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/c927ddef-e6df-4999-85f7-94888d4d1b45)
+![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/23ac84f0-b8c4-4366-aabb-d1f0100276e9)
+
+
 ## License
 
 MIT License
