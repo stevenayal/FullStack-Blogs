@@ -2,13 +2,6 @@
 <h5  align ="center"> 
 Fullstack Blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-  * [📸 Screenshots](#screenshots)
-  * [License](#license)
 
 ##  Key Features
 
