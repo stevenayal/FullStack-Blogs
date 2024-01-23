@@ -7,11 +7,11 @@ Fullstack Blogging application made with MongoDB, Express, React & Nodejs (MERN)
 
 - User registration and login
 - Authentication using JWT Tokens
-- Story searching  and pagination 
+- Blog searching  and pagination 
 - CRUD operations (Story create, read, update and delete)
-- Upload user ımages and story ımages  to the server
-- Liking  stories and adding stories  to the Reading list
-- Commenting  on the story
+- Upload user ımages and blog ımages  to the server
+- Liking  Blogs and adding Blogs  to the Reading list
+- Commenting  on the Blog
 - Skeleton loading effect
 - Responsive Design
 
