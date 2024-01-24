@@ -17,6 +17,7 @@ import NotFound from './components/GeneralScreens/NotFound';
 import EditStory from './components/StoryScreens/EditStory';
 import ReadListPage from './components/ProfileScreens/ReadListPage';
 
+import TeamMembers from './components/TeamMembers';   
 const App = () => {
 
       return (
