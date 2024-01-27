@@ -54,17 +54,27 @@ This project was created using the following technologies.
  
  ##  Screenshots 
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/5233806b-7499-4b4e-82fb-29bc9523965f)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/4282f48c-4c3d-4c36-b8ea-f3432befcb87)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/2e983076-5357-4022-ba2a-97402fa94f56)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/c927ddef-e6df-4999-85f7-94888d4d1b45)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/23ac84f0-b8c4-4366-aabb-d1f0100276e9)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/792edd59-965e-41c9-a962-4022dfa5a7c4)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/30419222-f56b-44dd-a04b-317181d14784)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/e100f7c6-c534-4e56-8835-08136dbfc527)
+---- -
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/5fa713ed-3f5c-46e6-9941-85d75cecf231)
 
-
-
+## Author
+- Github: [Aditya Raj](https://github.com/RajAditya01)
+- Linkedin: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
+- Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
 
 ## License
