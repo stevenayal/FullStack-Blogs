@@ -7,11 +7,7 @@
         "start": "nodemon server.js "
     },
     "keywords": [],
-<<<<<<< HEAD
-    "author": "Aditya Raj ",
-=======
     "author": "Aditya Raj",
->>>>>>> 709cf29e3d1b18ad36aa30bf4718efe2a6cba4a0
     "license": "ISC",
     "dependencies": {
         "@vercel/speed-insights": "^1.0.7",
