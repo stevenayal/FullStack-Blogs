@@ -60,6 +60,10 @@ This project was created using the following technologies.
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/23ac84f0-b8c4-4366-aabb-d1f0100276e9)
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/792edd59-965e-41c9-a962-4022dfa5a7c4)
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/222e9792-a805-4449-aaeb-600a9b03fe85)
+![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/30419222-f56b-44dd-a04b-317181d14784)
+![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/e100f7c6-c534-4e56-8835-08136dbfc527)
+
+
 
 
 ## License
