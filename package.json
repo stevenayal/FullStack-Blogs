@@ -1,6 +1,7 @@
 {
-  "dependencies": {
-    "@vercel/speed-insights": "^1.0.7",
-    "concurrently": "^8.2.2"
+  "scripts": {
+    "start": "npm run start-backend && npm run start-frontend",
+    "start-frontend": "cd Frontend && npm start",
+    "start-backend": "cd Backend && nodemon index.js"
   }
 }
